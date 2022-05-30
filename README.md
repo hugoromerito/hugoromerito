@@ -1,5 +1,3 @@
-# Olá 👋, meu nome é Hugo Romerito
-
 <img width="100%" src="https://i.imgur.com/FuWLZex.png" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
