@@ -1,6 +1,16 @@
 <img width="100%" src="https://i.ibb.co/znwZjV6/github-header-image-18.png" alt="my banner">
 
-## 💫 Liitle Bit More About Me
+<p align="center">
+<a href="https://instagram.com/hugoromerito_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-hugoromerito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/hugoromerito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-hugoromerito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
+##
+
 <p>🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, React.js TypeScript, NodeJS</p>
 <p>💬 Ask me about HTML ou JavaScript</p>
 <p>All of my projects are available at <a href="https://picolinux.com.br">Picolinux</a></p>
@@ -20,10 +30,5 @@
 </p>
 
 ## 📊 Github Status
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoromerito&layout=compact"><p>
-  
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/hugoromerito"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/hugoromerito_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoromerito&layout=compact&icons=true&theme=nightowl"><p>
+
