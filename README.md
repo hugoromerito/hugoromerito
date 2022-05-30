@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/FuWLZex.png" alt="my banner">
+<img width="100%" src="https://i.ibb.co/znwZjV6/github-header-image-18.png" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, React.js TypeScript, NodeJS</p>
