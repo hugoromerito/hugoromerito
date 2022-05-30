@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Hugo Romerito
 
-<img width="100%" src="https://imgur.com/5ryHQAw" alt="my banner">
+<img width="100%" src="https://imgur.com/a/PrLIRzc" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, React.js TypeScript, NodeJS</p>
