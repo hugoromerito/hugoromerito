@@ -30,5 +30,5 @@
 </p>
 
 ## 📊 Github Status
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoromerito&layout=compact&icons=true&theme=nightowl"><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoromerito&layout=compact&icons=true&theme=dark"><p>
 
