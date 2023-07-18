@@ -11,8 +11,7 @@
 
 ##
 
-<p>🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, React.js TypeScript, NodeJS</p>
-<p>💬 Ask me about HTML ou JavaScript</p>
+<p>🌱 At the moment I'm learning TypeScript, Python e JAVA</p>
 <p>All of my projects are available at <a href="https://picolinux.com.br">Picolinux</a></p>
 
 ## 💻 Skills
