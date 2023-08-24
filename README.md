@@ -12,7 +12,6 @@
 ##
 
 <p>🌱 At the moment I'm learning TypeScript, Python e JAVA</p>
-<p>All of my projects are available at <a href="https://picolinux.com.br">Picolinux</a></p>
 
 ## 💻 Skills
 <p>
