@@ -1,5 +1,3 @@
-<img width="100%" src="https://i.ibb.co/znwZjV6/github-header-image-18.png" alt="my banner">
-
 <p align="center">
 <a href="https://instagram.com/hugoromerito_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-hugoromerito-05122A?style=flat&logo=instagram" alt="instagram"/>
