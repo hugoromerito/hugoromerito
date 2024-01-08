@@ -2,6 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="imagem" />
 &nbsp;&nbsp;&nbsp;
 
+
 <p align="center">I love ❤️ solving problems with programming.<br><br> From backend development using Python to frontend development using Nextjs with Reactjs.<br>It's difficult to describe how I feel about programming, <strong>an inexplicable feeling , especially Python</strong>.<br> I find it easy to learn and develop in different environments and languages, but whenever I need to develop an application in Python, the feeling is one of euphoria, again, I can't explain why, I just know that exist.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
